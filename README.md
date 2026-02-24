@@ -236,7 +236,6 @@ Markdown format:
   - Hsin-Ying Lee, Jia-Bin Huang, Maneesh Kumar Singh, and Ming-Hsuan Yang. *ICCV 2017*
 
 #### 2018
-
 - Unsupervised Feature Learning via Non-parameteric Instance Discrimination
   [[pdf]](https://arxiv.org/pdf/1805.01978.pdf) 
   [[code]](https://github.com/zhirongw/lemniscate.pytorch)
@@ -289,7 +288,6 @@ Markdown format:
   - Aravindh Mahendran, James Thewlis, Andrea Vedaldi. *ACCV 2018*
 
 #### 2019
-
 - Representation Learning with Contrastive Predictive Coding.
   [[pdf]](https://arxiv.org/abs/1807.03748)
   - Aaron van den Oord, Yazhe Li, Oriol Vinyals.
@@ -385,7 +383,6 @@ Markdown format:
   [[code]](https://github.com/DeepSceneSeg/SSMA)
   - Abhinav Valada, Rohit Mohan, and Wolfram Burgard. *IJCV 2019*
     
-
 #### 2020
  - A critical analysis of self-supervision, or what we can learn from a single image
    [[pdf]](https://arxiv.org/pdf/1904.13132)
@@ -588,7 +585,8 @@ Markdown format:
    
  - VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning
    [[pdf]](https://arxiv.org/abs/2105.04906)
-   - Adrien Bardes, Jean Ponce, Yann LeCun. *ICLR 2022*    
+   - Adrien Bardes, Jean Ponce, Yann LeCun. *ICLR 2022*  
+
 #### 2023
  - Inter-Instance Similarity Modeling for Contrastive Learning
    [[pdf]](https://arxiv.org/abs/2306.12243) 
@@ -597,7 +595,13 @@ Markdown format:
  - Asymmetric Patch Sampling for Contrastive Learning
    [[pdf]](https://arxiv.org/abs/2306.02854)
    [[code]](https://github.com/visresearch/aps)
-   - Chengchao Shen, Jianzhong Chen, Shu Wang, Hulin Kuang, Jin Liu, Jianxin Wang. 
+   - Chengchao Shen, Jianzhong Chen, Shu Wang, Hulin Kuang, Jin Liu, Jianxin Wang.
+
+#### 2024
+ - Towards evolution of Deep Neural Networks through contrastive Self-Supervised learning
+   [[pdf]](https://arxiv.org/pdf/2406.14525) 
+   [[code]](https://github.com/cdvetal/evodenss)
+   - Adriano Vinhas, João Correia, Penousal Machado. *CEC 2024*
 
 ### Video Representation Learning
 
