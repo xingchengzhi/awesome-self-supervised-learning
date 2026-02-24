@@ -47,39 +47,71 @@ Markdown format:
 
 
 
-## Theory    
+## Theory
+
+#### 2019
 -   A Theoretical Analysis of Contrastive Unsupervised Representation Learning.
     [[pdf]](https://arxiv.org/pdf/1902.09229.pdf)
     -   Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, and Nikunj Saunshi. *ICML 2019*
-
--   Towards the Generalization of Contrastive Self-Supervised Learning.
-    [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
-    -   Weiran Huang, Mingyang Yi, and Xuyang Zhao.
-  
--   Understanding the Behaviour of Contrastive Loss.
-    [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
-    -   Feng Wang and Huaping Liu. *CVPR 2021*
-    
--   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
-    [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
-    -   Jason D. Lee, Qi Lei, Nikunj Saunshi, and Jiacheng Zhuo.
-
--   Contrastive learning , multi-view redundancy , and linear models.
-    [[pdf]](https://arxiv.org/pdf/2008.10150.pdf)
-    -   Christopher Tosh, Akshay Krishnamurthy, and Daniel Hsu.
-   
+#### 2020
+-   Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere.
+    [[pdf]](https://arxiv.org/pdf/2005.10242)
+    -   Tongzhou Wang, Phillip Isola. *ICML 2020*
 -   Understanding Self-supervised Learning with Dual Deep Networks.
     [[pdf]](https://arxiv.org/pdf/2010.00578.pdf)
     -   Yuandong Tian, Lantao Yu, Xinlei Chen, and Surya Ganguli.
-    
 -   For self-supervised learning, Rationality implies generalization, provably.
     [[pdf]](https://arxiv.org/pdf/2010.08508.pdf)
     -   Yamini Bansal, Gal Kaplun, and Boaz Barak.
    
--   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
+#### 2021
+-   Towards the Generalization of Contrastive Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2111.00743.pdf)
+    -   Weiran Huang, Mingyang Yi, and Xuyang Zhao.
+-   Understanding the Behaviour of Contrastive Loss.
+    [[pdf]](https://arxiv.org/pdf/2012.09740.pdf)
+    -   Feng Wang and Huaping Liu. *CVPR 2021*
+-   Predicting What You Already Know Helps: Provable Self-Supervised Learning. 
+    [[pdf]](https://arxiv.org/pdf/2008.01064.pdf)
+    -   Jason D. Lee, Qi Lei, Nikunj Saunshi, and Jiacheng Zhuo.
+-   Contrastive learning , multi-view redundancy , and linear models.
+    [[pdf]](https://arxiv.org/pdf/2008.10150.pdf)
+    -   Christopher Tosh, Akshay Krishnamurthy, and Daniel Hsu.
+-   Contrastive Learning Inverts the Data Generating Process.
+    [[pdf]](Contrastive Learning Inverts the Data Generating Process)
+    -   Roland S. Zimmermann, Yash Sharma, Steffen Schneider, Matthias Bethge, Wieland Brendel. **ICML 2021**
+
+
+#### 2022
+-   Contrastive Learning Can Find An Optimal Basis For Approximately View-Invariant Functions.
     [[pdf]](https://arxiv.org/pdf/2103.03568.pdf)
     -   Jiaye Teng, Weiran Huang, and Haowei He. *AISTATS 2022*
-       
+
+#### 2023
+-   Can Pretext-Based Self-Supervised Learning Be Boosted by Downstream Data? A Theoretical Analysis.
+    [[pdf]](https://openreview.net/pdf?id=AjC0KBjiMu)
+    -   Daniel D. Johnson, Ayoub El Hanchi, Chris J. Maddison. *ICLR 2023*
+-   On the Stepwise Nature of Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2303.15438)
+    -   James B. Simon, Maksis Knutins, Liu Ziyin, Daniel Geisz, Abraham J. Fetterman, Joshua Albrecht. *ICML 2023*
+-   What shapes the loss landscape of self supervised learning?
+    [[pdf]](https://openreview.net/pdf?id=3zSn48RUO8M)
+    -   Liu Ziyin, Ekdeep Singh Lubana, Masahito Ueda, Hidenori Tanaka. *ICLR 2023*
+
+
+#### 2024  
+-   Bridging Mini-Batch and Asymptotic Analysis in Contrastive Learning: From InfoNCE to Kernel-Based Losses.
+    [[pdf]](https://arxiv.org/pdf/2405.18045)
+    [[code]](https://github.com/pakoromilas/DHEL-KCL)
+    -   Panagiotis Koromilas, Giorgos Bouritsas, Theodoros Giannakopoulos, Mihalis Nicolaou, Yannis Panagakis. *ICML 2024*
+-   Matrix Information Theory for Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2305.17326)
+    -  Yifan Zhang, Zhiquan Tan, Jingqin Yang, Weiran Huang, Yang Yuan. *ICML 2024*
+-   Information Flow in Self-Supervised Learning.
+    [[pdf]](https://arxiv.org/pdf/2309.17281)
+    -  Zhiquan Tan, Jingqin Yang, Weiran Huang, Yang Yuan, Yifan Zhang. *ICML 2024*
+
+
        
 ## Computer Vision
 ### Survey
